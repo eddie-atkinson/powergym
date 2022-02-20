@@ -3,3 +3,6 @@
 /systems/*/loadshape
 /systems/*/loadshape.dss
 __pycache__
+.DS_Store
+.python-version
+
